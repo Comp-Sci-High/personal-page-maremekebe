@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
 
 body {
-    background-image: url('https://img.freepik.com/premium-vector/hand-drawn-seamless-pattern-with-cute-yellow-flowers-white-background_646146-9.jpg');
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZSf3OywU4xlS9bYZLxRh2SLOoBPwaMDI5gA&s');
     font-family: "Madimi One", sans-serif;
     margin: 0;
     padding: 20px;
@@ -15,15 +15,15 @@ header {
 }
 
 h1 {
-    color: #FFB800;
-    background-color: rgba(255, 255, 255, 0.8);
+    color: #6a1280;
+    background-color: rgba(180, 28, 112, 0.8);
     font-size: 48px;
-    text-shadow: 2px 2px #fff;
+    text-shadow: 2px 2px #0dac91;
 }
 
 h2 {
-    color: #FF9900;
-    border-bottom: 2px dashed #FF9900;
+    color: #a916b7;
+    border-bottom: 2px dashed #6e0722;
     padding-bottom: 5px;
 }
 
@@ -72,3 +72,27 @@ p {
     color: #333;
     line-height: 1.6;
 }
+.group {
+    color: red;
+    background-color: blue;
+}
+#favorite {
+    background-color: aqua;
+    border: 5px solid black;
+}
+.group p{
+    color: #FFB800;
+    text-decoration: underline;
+    text-shadow: 5px 5px red;
+}
+#funfact{
+    background-color: hotpink;
+}
+.family{
+    width: 500px;
+    height: 500px;
+}
+.fun-fact-main{
+text-shadow: 5px 5px red;
+}
+
